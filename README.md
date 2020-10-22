@@ -1,4 +1,4 @@
-# BitArray
+# Bit级别布隆过滤器(JAVA)
 操作Bit数组实现Bit级别的布隆过滤器
 
 /**使用说明
