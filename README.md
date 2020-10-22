@@ -9,3 +9,5 @@ BitArray ba = new BitArray();  //创建Bit数组对象<br>
 	ba.set(121);                 ...<br>
 	System.out.println(ba.get(119).ordinal());  //获取值，如果Bit数组存在该值，会返回Bit.One(1)<br>
   /////  2020-10-21<br>
+  
+  <h3><a href="https://blog.csdn.net/qq_39663113" style="text-decoration='none';">欢迎关注本人博客</a></h3>
