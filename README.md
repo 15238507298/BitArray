@@ -1,5 +1,5 @@
 # BitArray
-操作Bit数组实现Bit数据set&amp;get操作
+操作Bit数组实现Bit级别的布隆过滤器
 
 /**使用说明
 BitArray ba = new BitArray();  //创建Bit数组对象
